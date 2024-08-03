@@ -66,6 +66,7 @@ ul {
     flex-wrap: wrap;
     padding: 0;
     margin: 0;
+    margin-bottom: 50px;
    
 }
 
@@ -74,6 +75,45 @@ ul {
     width: 250px;
     height: 250px;
     text-wrap: wrap;
+}
+.quotebackground {
+  background-color: #e5e7eb;
+}
+
+.quote-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-wrap: wrap;
+  padding: 40px;
+}
+#rengoku-quote{
+  display: flex;
+  justify-content: flex-end;
+  width: 50%;
+  font-weight: 500;
+}
+
+.calltoaction {
+  background-color: #3882f6;
+  margin-top: 40px;
+  margin-right:200px;
+  margin-left:200px;
+  margin-bottom: 40px;
+  color:white;
+  display: flex;
+  flex-direction:row;
+  padding: 10px;
+  border-radius: 5px;
+  justify-content: space-between;
+}
+
+.crunchyroll{
+display: flex;
+ justify-content: flex-end;
+ align-self: center;
+ padding: 5px;
+  
 }
 
 
