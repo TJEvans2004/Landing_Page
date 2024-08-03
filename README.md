@@ -1,0 +1,1 @@
+Hey! Welcome to anime arcade where we're here to give you everything you need to embark on your action packed adventure. This page is designed to give you our top recommendations and links to know where to watch. Be on the lookout for new webpages with more of a deep dive!
